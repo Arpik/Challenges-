@@ -1,0 +1,126 @@
+h3 {
+    font-family: arial;
+    font-size: 150%;
+    text-transform: uppercase;
+    word-spacing: 460px
+}
+
+div.Mobile {
+    background-color: white;
+    padding: 4%;
+    height: 700px;
+    width: 250px;
+    bottom: 100px;
+    box-shadow: 0 4px 8px 0 #a9a9a9;
+}
+
+p.mob_first {
+
+    position: relative;
+    bottom: 70px;
+    left: -25px;
+    color: black;
+    font-family: verdana;
+    font-size: 200%;
+    text-transform: uppercase;
+}
+
+div.whole {
+    position: relative;
+    bottom: 70px;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: verdana;
+    font-size: 120%;
+}
+
+p.line2 {
+    text-align: center;
+    color: white;
+    font-family: verdana;
+    font-size: 200%;
+}
+
+div.one {
+    background-color: #0088cc;
+    width: 95%;
+    padding: 10px;
+}
+
+div.two {
+    background-color: #d9603b;
+    width: 95%;
+    padding: 10px;
+}
+
+div.three {
+    background-color: #3eb489;
+    width: 95%;
+    padding: 10px;
+}
+
+div.four {
+    background-color: #002233;
+    width: 95%;
+    padding: 10px;
+}
+
+div.web {
+    box-shadow: 0 4px 8px 0 #a9a9a9;
+    height: 450px;
+    width: 570px;
+    position: relative;
+    left: 500px;
+    bottom: 845px;
+}
+
+p.web_first {
+    position: relative;
+    bottom: -10px;
+    left: -150px;
+    color: black;
+    font-family: verdana;
+    font-size: 200%;
+    text-transform: uppercase;
+}
+
+div.whole_web {
+    position: relative;
+    bottom: 1px;
+    left: 40px;
+}
+
+div.one_web {
+    background-color: #0088cc;
+    width: 40%;
+    padding: 10px;
+}
+
+div.two_web {
+    background-color: #d9603b;
+    width: 40%;
+    padding: 10px;
+}
+
+div.three_web {
+    position: relative;
+    left: 248px;
+    bottom: 330px;
+    background-color: #3eb489;
+    width: 40%;
+    padding: 10px;
+}
+
+div.four_web {
+    position: relative;
+    left: 248px;
+    bottom: 330px;
+    background-color: #002233;
+    width: 40%;
+    padding: 10px;
+}
+
+  
